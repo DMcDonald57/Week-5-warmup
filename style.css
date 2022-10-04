@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    display: grid;
+    justify-items: center;
+}
+#logo{
+    height: 10vh;
+    margin-top: 10px;
+}
+main{
+    display: grid;
+    margin-top: 20px;
+    text-align: center;
+}
+main > img{
+    justify-self: center;
+    margin-top: 20px;
+}
+
